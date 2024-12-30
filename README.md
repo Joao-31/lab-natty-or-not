@@ -20,32 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Energia Solar: Sustentabilidade e Economia para um Futuro Limpo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um vídeo que descreve os benefícios da utilização de energia solar.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa LeonardoAI para criação do avatar
+IA Generativa ChatGPT para criação do texto
+IA Generativa ElevenLabs para transformação de texto em áudio
+IA Generativa D-ID para criação do vídeo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+No LeonardoIA pedi para gerar a imagem de uma pessoa real que estivesse de frente para criação do avatar, no chatGPT pedi parar criar um texto sobre o uso de energia solar, no elevenLabs utilizei o texto gerado para crirar a voz e no D-ID reuni os elementos gerados para a criação do vídeo falando sobre a energia solar.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A maior dificuldade é a parte de escolher e identificar os conteúdos que mais se assemelham com a relidade, pois apesar das IAs possuirem traços de realidade muito bons, ainda é possível identificar se é natty or fake natty.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
