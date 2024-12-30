@@ -37,7 +37,7 @@ No LeonardoIA pedi para gerar a imagem de uma pessoa real que estivesse de frent
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-Link do vídeo (https://github.com/Joao-31/lab-natty-or-not/blob/main/Untitled%20video.mp4)
+[Vídeo](https://github.com/Joao-31/lab-natty-or-not/blob/main/Untitled%20video.mp4)
 
 ## 💭 Reflexão (Opcional)
 A maior dificuldade é a parte de escolher e identificar os conteúdos que mais se assemelham com a relidade, pois apesar das IAs possuirem traços de realidade muito bons, ainda é possível identificar se é natty or fake natty.
